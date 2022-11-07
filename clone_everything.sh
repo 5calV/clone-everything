@@ -67,3 +67,23 @@ git clone https://github.com/5calV/Tkinter-Password-Generator.git
 sleep 3
 
 #-----------------------------------------------------------------------------------------------------------------------------------
+
+# Python / Tkinter Countdown App
+
+echo "Cloning Python / Tkinter Countdown App"
+
+sleep 1
+
+echo "Cloning Python / Tkinter Countdown App"
+
+sleep 1
+
+echo "Cloning Python / Tkinter Countdown App"
+
+sleep 1
+
+git clone https://github.com/5calV/Tkinter-Countdown-Timer
+
+sleep 3
+
+#-----------------------------------------------------------------------------------------------------------------------------------

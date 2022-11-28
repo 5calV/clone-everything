@@ -87,3 +87,24 @@ git clone https://github.com/5calV/Tkinter-Countdown-Timer
 sleep 3
 
 #-----------------------------------------------------------------------------------------------------------------------------------
+
+
+# Minecraft Mod
+
+echo "Cloning Minecraft Mod"
+
+sleep 1
+
+echo "Cloning Minecraft Mod"
+
+sleep 1
+
+echo "Cloning Minecraft Mod"
+
+sleep 1
+
+git clone https://github.com/5calV/mcmod
+
+sleep 3
+
+#-----------------------------------------------------------------------------------------------------------------------------------

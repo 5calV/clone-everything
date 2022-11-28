@@ -8,11 +8,11 @@
 
 # Folder
 
-echo "The cloned repositorys will be in Folder 5calV"
-echo "The cloned repositorys will be in Folder 5calV"
-echo "The cloned repositorys will be in Folder 5calV"
-echo "The cloned repositorys will be in Folder 5calV"
-echo "The cloned repositorys will be in Folder 5calV"
+echo "The cloned repositories will be in Folder 5calV"
+echo "The cloned repositories will be in Folder 5calV"
+echo "The cloned repositories will be in Folder 5calV"
+echo "The cloned repositories will be in Folder 5calV"
+echo "The cloned repositories will be in Folder 5calV"
 
 mkdir 5calV
 

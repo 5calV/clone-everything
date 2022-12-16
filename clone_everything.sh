@@ -88,23 +88,23 @@ sleep 3
 
 #-----------------------------------------------------------------------------------------------------------------------------------
 
+# Python Simple Terminal Calculator
 
-# Minecraft Mod
-
-echo "Cloning Minecraft Mod"
-
-sleep 1
-
-echo "Cloning Minecraft Mod"
+echo "Cloning Simple Terminal Python Calculator"
 
 sleep 1
 
-echo "Cloning Minecraft Mod"
+echo "Cloning Simple Terminal Python Calculator"
 
 sleep 1
 
-git clone https://github.com/5calV/mcmod
+echo "Simple Terminal Python Calculator"
+
+sleep 1
+
+git clone https://github.com/5calV/pycalculator
 
 sleep 3
 
 #-----------------------------------------------------------------------------------------------------------------------------------
+
